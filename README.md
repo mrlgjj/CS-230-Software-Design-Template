@@ -8,7 +8,7 @@ _What did you do particulary well in developing this documentation?_
 _What about the process of working through a design document did you find helpful when developing the code?_  
 •	This allowed me to organize my thoughts in a visual way, and this helped me to present solutions as well.   
 _If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?_  
-•	I would choose the recommendations portion, and do more research in order to find the best alternative solutions, including those I had presented. 
+•	I would choose the recommendations portion, and do more research in order to find the best alternative solutions, including those I had presented.   
 _How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?_  
 •	By incorporating the use of login authentication to allow control of access to the game. The user's needs are the sole basis for designing a program. The user's needs must be kept in mind throughout the whole of the desing process, as they are either the customer or the entity the customer will sell the product to.   
 _How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?_    
